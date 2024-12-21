@@ -12,7 +12,8 @@ section header {
 
 
 #feature {
-  grid-area: feature ;
+  grid-area: feature;
+
   img{ 
     height: 100%;
     object-fit: cover;
@@ -99,7 +100,8 @@ aside {
 }
 
 #more {
-  margin-top: 32px;
+  grid-area: more;
+
 
   h3 {
     margin-top: 8px;
